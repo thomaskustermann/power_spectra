@@ -12,7 +12,8 @@ test_neg=test_neg_d1;
 % training_neg=training_neg_d2;
 % test_pos=test_pos_d2;
 % test_neg=test_neg_d2;
-%% load PRE-Saved graph metrics
+
+%% load PRE-saved graph metrics
 
 file_to_load = 'graphm_2018_07_31_var_over_time.mat'; % thresholded - binarized - change over time (var) - failed thresholdings, fixed degree calc
 graphm=[];

@@ -1,5 +1,5 @@
 % script to export the predictions from power spectra and graph metrics to a text file
-base_path = 'Z:\USERS_DATA\tkusterm\resting_state\DATA\RestingEEG\resting_data\';
+base_path = 'path\to\folders\wit\patients';
 %%
 % day 1
 training_pos=training_pos_d1;
